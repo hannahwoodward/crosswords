@@ -31,7 +31,13 @@ docker build -t crosswords .
 docker run -it --rm --volume=${PWD}:/home/node crosswords
 ```
 
-* In container shell, run script for help:
+* In container shell, install JS packages:
+
+```
+npm i
+```
+
+* Then run script for help:
 
 ```
 node index.js
