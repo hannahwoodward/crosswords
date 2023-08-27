@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@confuzzle/puz-crossword": "^1.2.3",
+    "hpdf": "^1.0.3",
+    "node-fetch": "^2.6.6"
+  }
+}
